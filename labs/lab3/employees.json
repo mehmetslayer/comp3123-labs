@@ -1,0 +1,23 @@
+{
+    "user1" : {
+        "name": "Mehmet Emin Onem",
+        "password": "supersecretpassword",
+        "profession": "enchanter",
+        "id": 1
+
+    },
+    "user2": {
+        "name": "Jin",
+        "password": "jinguy123",
+        "profession": "blacksmith",
+        "id": 2
+
+    },
+    "user3": {
+        "name": "Ahmed",
+        "password": "ahmedahmedov",
+        "profession": "tailor",
+        "id": 3
+
+    }
+}
